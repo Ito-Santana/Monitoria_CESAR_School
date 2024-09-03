@@ -1,6 +1,6 @@
 # Repositório de Monitoria - Faculdade CESAR School
 
-![Logo da Disciplina]([URL-da-Imagens/logo.png](https://github.com/Ito-Santana/Monitoria_CESAR_School/blob/main/ignore.png))
+![Logo da Disciplina](https://github.com/Ito-Santana/Monitoria_CESAR_School/blob/main/ignore.png)
 
 Bem-vindo ao meu repositório de monitoria! Este repositório é um espaço para compartilhar materiais de apoio, desafios de programação e recursos adicionais relacionados às disciplinas.
 
